@@ -3,6 +3,8 @@ import Api from '../../api';
 
 import { Container } from './styles';
 
+import Board from './components/Board';
+
 function Main() {
     const [data, setData] = useState({});
     const [country, setCountry] = useState('brazil');
@@ -19,8 +21,11 @@ function Main() {
     return (
         <Container>
             <div className="mb-2">
+                <h1>hehe</h1>
 
             </div>
+
+            <Board data={data} />
         </Container>
     )
 }
