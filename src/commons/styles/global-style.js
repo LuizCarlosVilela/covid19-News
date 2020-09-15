@@ -35,6 +35,9 @@ const globalStyle = createGlobalStyle`
   .cusor {
     cursor: pointer;
   }
+  .space {
+    margin-left: 1vw;
+  }
 `;
 
 export default globalStyle;

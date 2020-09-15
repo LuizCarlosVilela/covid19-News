@@ -57,15 +57,18 @@ function Painel({ updateAt, onChange, data, country, getCoviddata }){
         <Card>
             <CardPainelContentStyled>
                 <div>
+                    
                     <Typography variant="h5" component="span" color="primary">
                         COVID19
                     </Typography>
-                    <Typography variant="h6" component="span" color="primary">
+                    <Typography variant="h6" component="span" color="primary" className="space">
                         Painel Coronavírus
                     </Typography>
-                    <Typography variant="body2" component="span" color="primary">
+                    <Typography variant="body2" component="span" color="primary" className="space">
                         Atualizado em: {updateAt}
                     </Typography>
+
+                    
 
                     <div className="pt-2">
                         <Select onChange={onChange} value={country}>
