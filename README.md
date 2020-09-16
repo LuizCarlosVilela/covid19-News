@@ -16,7 +16,7 @@
 <h3 align=center>
   
 :books:
-***Covid19 News*** é um projeto web com PWA para Mobile que mostra o status de casos do vírus COVID-19 em alguns países, com o objetivo de praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***, e também praticar manipulação de dados com a API de casos do vírus que foi usada.
+***Covid19 News*** é um projeto web com PWA para Mobile que mostra o status de casos do vírus COVID-19 em países, com o objetivo de praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***.
 </h3>
 
 <br /><br />
