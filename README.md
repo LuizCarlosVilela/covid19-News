@@ -1,4 +1,4 @@
-# ***WhatsApp Clone :computer:*** 
+# ***Covid19 News :computer:*** 
 
 <h1 align=center>
   <img src="assets/Banner.png" alt="WhatsApp Banner"/>
@@ -16,7 +16,7 @@
 <h3 align=center>
   
 :books:
-***WhatsApp clone*** é um projeto para replicar a interface do WhatsApp web, e praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***
+***Covid19 News*** é um projeto web com PWA para Mobile que mostra o status de casos do vírus COVID-19 em alguns países, com o objetivo de praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***, e também praticar manipulação de dados com a API de casos do vírus que foi usada.
 </h3>
 
 <br /><br />
@@ -30,7 +30,7 @@
 ## ***:rocket: OBJETIVO***
 
 <p align=justify> 
-  Projeto tem como principal objetivo desenvolver conhecimento na linguagem <strong>typescript</strong> e na biblioteca <strong>ReactJS</strong>, em meio ao desenvolvimento conseguir aprender e praticar display grid e outras funções importantes do front-end, além de fazer uso da biblioteca <strong>Material-UI</strong>.
+  Projeto tem como principal objetivo mostrar a atual situação dos casos do vírus covid-19 de determinado país, e com a opção de compartilhar ou copiar esses dados e enviar para outras pessoas. Além de desenvolver conhecimento na linguagem <strong>typescript</strong> e na biblioteca <strong>ReactJS</strong>, em meio ao desenvolvimento conseguir aprender e além de praticar o uso da biblioteca <strong>Material-UI</strong>. Os dados do projeto vem de uma <a src="https://coronavirus-19-api.herokuapp.com/tabs/tab1">API</a> com dados oficiais sobre o novo vírus COVID-19.
 </p>
 
 
@@ -42,12 +42,12 @@
   - **[React Icons][react_icons]**
   - **[Material-UI][material_ui]**
 
-  Arquivo json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/clone-github/blob/master/package.json)</kbd>
-
+  Arquivo json do fron-end do webSite <kbd>[Package.json](./package.json)</kbd>
 
 #### ***Utilitários***
 
 - Editor: **[Visual Studio Code][vscode]**;
+- Api ( back-end ): **[API](https://coronavirus-19-api.herokuapp.com/tabs/tab1)**;
 
 ## ***:wine_glass: COMO UTILIZAR***
 
@@ -82,7 +82,7 @@ $ cd ./whatsapp-clone
 $ npm install
 
 ```
-Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>.
+Veja os arquivos **`package.json`** no <kbd>[Package.json](./package.json)</kbd>.
 
 ### ***Utilizando o Website***
 
