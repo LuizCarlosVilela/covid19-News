@@ -22,10 +22,32 @@
 <br /><br />
 
 <h1 align=center>
-  <img src="assets/Home.gif" alt="Tela Home"/>
-</h1>
-
+  <img src="assets/Banner2.png" alt="Banner2 "/>
+</h1
 <br />
+
+
+<h2 align=center>
+  <i>Telas Mobile</i> :iphone:
+</h2>
+
+<div align=center >  
+  <table align=center border="0">
+  <tr align=center>
+    <th ><strong> <i> Home </i> </strong></th>
+    <th ><strong> <i> Secund </i> </strong></th>
+  </tr>
+                                
+  <tr align=center >
+    <td >
+       <img width="400" src="assets/Home.png">
+    </td>
+    <td > <img width="400" src="assets/Home2.png"> </td>
+  </tr>
+</table>
+</div>
+
+<br /><br />
 
 ## ***:rocket: OBJETIVO***
 
