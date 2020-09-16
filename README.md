@@ -1,7 +1,7 @@
-# ***Covid19 News :computer:*** 
+# ***Covid19 News :warning:*** 
 
 <h1 align=center>
-  <img src="assets/Banner.png" alt="WhatsApp Banner"/>
+  <img src="assets/Banner.png" alt="Covid19 Banner"/>
 </h1>
 
 <div align=center>
@@ -78,7 +78,7 @@ $ yarn
 Exemplos:
 ```sh
 # Instalando as dependências do website:
-$ cd ./whatsapp-clone
+$ cd ./Covid19news
 $ npm install
 
 ```
