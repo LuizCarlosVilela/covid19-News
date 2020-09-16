@@ -19,9 +19,9 @@
 ***Covid19 News*** é um projeto web com PWA para Mobile que mostra o status de casos do vírus COVID-19 em países, com o objetivo de praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***.
 </h3>
 
-<h1 align=center>
+<h3 align=center>
   <img src="assets/Banner2.png" alt="Banner2 "/>
-</h1
+</h3>
 <br />
 <h2 align=center>
   <i>Telas Mobile</i> :iphone:
