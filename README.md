@@ -111,6 +111,14 @@ $ npm run start
 
 > Se o browser não abrir automaticamente, acesse: http://localhost:3000.
 
+## ***:star2: AGRADECIMENTOS***
+
+<div align=center>
+
+<img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" width="500" alt="Logo Digital Innovation one"/>
+
+</div>
+
 ## ***:books: REFERÊNCIAS***
 
 - [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
